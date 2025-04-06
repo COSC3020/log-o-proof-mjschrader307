@@ -52,3 +52,7 @@ $T(n) \in O(\log_5(n)) \iff \exists n_0 : T(n) \le \log_2(n) \forall n \ge n_0$
 ### Conclusion
 
 Using the change of log formula, a logarithm can be written as some constant times the log of the same number in a different base (i.e. two logarithms with different bases differ only by constant factor and constant factors don't matter). Therefore, we can say that $O(\log_a(n))$ and $O(\log_b(n))$ are asymptotically the same.
+
+---
+
+**I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.**
